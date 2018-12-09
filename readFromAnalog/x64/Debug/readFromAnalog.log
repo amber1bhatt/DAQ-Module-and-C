@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\amber\onedrive\desktop\c things\readfromanalog\main.c(55): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\amber\onedrive\desktop\c things\readfromanalog\main.c(94): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  readFromAnalog.vcxproj -> C:\Users\amber\OneDrive\Desktop\C things\readFromAnalog\x64\Debug\readFromAnalog.exe
